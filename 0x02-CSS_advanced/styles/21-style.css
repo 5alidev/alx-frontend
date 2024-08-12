@@ -198,7 +198,7 @@ ul.row {
     clear: both;
 }
 
-[class^='col-']:not([class='col-1-3'], [class='col-1-2']) {
+[class^='col-'] {
     float: left;
     padding: 0.5rem;
 }
